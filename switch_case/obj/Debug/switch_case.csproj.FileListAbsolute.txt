@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\FirstApp\switch_case\bin\Debug\switch_case.exe.config
+C:\Users\Jack\source\repos\FirstApp\switch_case\bin\Debug\switch_case.exe
+C:\Users\Jack\source\repos\FirstApp\switch_case\bin\Debug\switch_case.pdb
+C:\Users\Jack\source\repos\FirstApp\switch_case\obj\Debug\switch_case.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\FirstApp\switch_case\obj\Debug\switch_case.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\FirstApp\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\FirstApp\switch_case\obj\Debug\switch_case.exe
+C:\Users\Jack\source\repos\FirstApp\switch_case\obj\Debug\switch_case.pdb

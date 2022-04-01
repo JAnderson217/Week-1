@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\FirstApp\Functionblock\bin\Debug\Functionblock.exe.config
+C:\Users\Jack\source\repos\FirstApp\Functionblock\bin\Debug\Functionblock.exe
+C:\Users\Jack\source\repos\FirstApp\Functionblock\bin\Debug\Functionblock.pdb
+C:\Users\Jack\source\repos\FirstApp\Functionblock\obj\Debug\Functionblock.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\FirstApp\Functionblock\obj\Debug\Functionblock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\FirstApp\Functionblock\obj\Debug\Functionblock.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\FirstApp\Functionblock\obj\Debug\Functionblock.exe
+C:\Users\Jack\source\repos\FirstApp\Functionblock\obj\Debug\Functionblock.pdb

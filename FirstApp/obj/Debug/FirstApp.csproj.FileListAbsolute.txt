@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\Jack\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\Jack\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\Jack\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\Jack\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

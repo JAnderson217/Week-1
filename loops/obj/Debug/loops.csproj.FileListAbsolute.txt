@@ -1,0 +1,8 @@
+C:\Users\Jack\source\repos\FirstApp\loops\bin\Debug\loops.exe.config
+C:\Users\Jack\source\repos\FirstApp\loops\bin\Debug\loops.exe
+C:\Users\Jack\source\repos\FirstApp\loops\bin\Debug\loops.pdb
+C:\Users\Jack\source\repos\FirstApp\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\FirstApp\loops\obj\Debug\loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jack\source\repos\FirstApp\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\FirstApp\loops\obj\Debug\loops.exe
+C:\Users\Jack\source\repos\FirstApp\loops\obj\Debug\loops.pdb
